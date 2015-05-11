@@ -5,6 +5,9 @@ Compiled list of anything web & interactive design related. If you would like a 
 ## Web Design
 - [Grid](http://adamkaplan.me/grid/) — Grid, made by Adam Kaplan
 
+## Filetypes
+- [Illustrator SVG Workflow](http://danielmall.com/articles/svg-workflow-for-designers/)- Written by Dan Mall
+
 ## Web Dev
 - [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax) - Markdown Syntax on Daring Fireball
 
