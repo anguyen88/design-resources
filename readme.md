@@ -3,10 +3,10 @@
 Compiled list of anything web & interactive design related. If you would like a link removed please contact me at [hi@antnguyen.com](mailto:hi@antnguyen.com).
 
 ## Web Design
-- [Grid](http://adamkaplan.me/grid/) — Grid, made by Adam Kaplan
+- [Grid](http://adamkaplan.me/grid/) - Grid, made by Adam Kaplan
 
 ## Filetypes
-- [Illustrator SVG Workflow](http://danielmall.com/articles/svg-workflow-for-designers/)- Written by Dan Mall
+- [Illustrator SVG Workflow](http://danielmall.com/articles/svg-workflow-for-designers/)
 
 ## Web Dev
 - [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax) - Markdown Syntax on Daring Fireball
@@ -18,6 +18,9 @@ Compiled list of anything web & interactive design related. If you would like a 
 
 ## HTML/CSS
 - [Text Input Effects](http://tympanus.net/Development/TextInputEffects/index.html) - Input effects from Tympanus
+
+## Stock Images
+- [Unsplash](https://unsplash.com/)
 
 ## Slack Communities
 - [PHLDesign](phldesign.slack.com) - Philadelphia based designers, [request an invite here](https://phlslack.herokuapp.com/).
