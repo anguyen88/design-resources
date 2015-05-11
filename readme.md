@@ -10,3 +10,6 @@ Compiled list of anything web & interactive design related. If you would like a 
 
 ## HTML/CSS
 - [Text Input Effects](http://tympanus.net/Development/TextInputEffects/index.html) - Input effects from Tympanus
+
+## Slack Communities
+- [PHLDesign](phldesign.slack.com) - Philadelphia based designers, [request an invite here](https://phlslack.herokuapp.com/).
