@@ -21,6 +21,8 @@ Compiled list of anything web & interactive design related. If you would like a 
 
 ## Stock Images
 - [Unsplash](https://unsplash.com/)
+- [Little Visuals](http://littlevisuals.co/)
+- [Gratisopgrahy](http://www.gratisography.com/)
 
 ## Slack Communities
 - [PHLDesign](phldesign.slack.com) - Philadelphia based designers, [request an invite here](https://phlslack.herokuapp.com/).
