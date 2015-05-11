@@ -8,6 +8,11 @@ Compiled list of anything web & interactive design related. If you would like a 
 ## Web Dev
 - [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax) - Markdown Syntax on Daring Fireball
 
+## Frameworks
+- [Zurb Foundation](http://foundation.zurb.com/)
+- [Skeleton](http://getskeleton.com/)
+- [Bootstrap](http://getbootstrap.com/)
+
 ## HTML/CSS
 - [Text Input Effects](http://tympanus.net/Development/TextInputEffects/index.html) - Input effects from Tympanus
 
