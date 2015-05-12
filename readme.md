@@ -6,6 +6,7 @@ Compiled list of anything web & interactive design related. If you would like a 
 
 #### Web Design Resources
 - [Grid](http://adamkaplan.me/grid/) - Grid, made by Adam Kaplan
+- [960 Gridsystem](http://960.gs/)
 
 #### Stock Images
 - [Unsplash](https://unsplash.com/)
@@ -36,6 +37,11 @@ Compiled list of anything web & interactive design related. If you would like a 
 
 #### HTML/CSS
 - [Text Input Effects](http://tympanus.net/Development/TextInputEffects/index.html) - Input effects from Tympanus
+
+## UX
+
+#### Important Content
+- [UX Myths](http://uxmyths.com/)
 
 ## Filetypes
 - [Illustrator SVG Workflow](http://danielmall.com/articles/svg-workflow-for-designers/)
