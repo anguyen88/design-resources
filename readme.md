@@ -2,18 +2,6 @@
 
 Compiled list of anything web & interactive design related. If you would like a link removed please contact me at [hi@antnguyen.com](mailto:hi@antnguyen.com).
 
-## Contents
-- [Web Design](#web-design)
-- [Web Dev](#web-dev)
-- [Frameworks](#frameworks)
-- [CMS](#cms)
-- [HTML/CSS](#htmlcss)
-- [Filetypes](#filetypes)
-- [Sketch Resources](#sketch-resources)
-- [Stock Images](#stock-images)
-- [Good Reads](#good-reads)
-- [Slack Communities](#slack-communities)
-
 ## Web Design
 
 #### Web Design Resources
@@ -27,8 +15,9 @@ Compiled list of anything web & interactive design related. If you would like a 
 ## Web Dev
 
 #### Language Support
+- [SASS](http://sass-lang.com/) - Popular CSS pre-processor
+- [Stylus](https://learnboost.github.io/stylus/) - Another option for CSS pre-processor
 - [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax) - Markdown Syntax on Daring Fireball
-- [ngrok](https://ngrok.com/) - Secure tunneling to localhost
 - [Getting Started with Gulp](https://travismaynard.com/writing/getting-started-with-gulp)
 - [Grunt is Not Weird and Hard](http://24ways.org/2013/grunt-is-not-weird-and-hard/)
 
@@ -37,9 +26,13 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [Skeleton](http://getskeleton.com/)
 - [Bootstrap](http://getbootstrap.com/)
 
+#### Useful Apps
+- [ngrok](https://ngrok.com/) - Secure tunneling to localhost
+
 #### CMS
 - [Ghost](https://ghost.org/) - Just a blogging platform
 - [Jekyll](http://jekyllrb.com/)
+- [Wordpress](https://wordpress.com/)
 
 #### HTML/CSS
 - [Text Input Effects](http://tympanus.net/Development/TextInputEffects/index.html) - Input effects from Tympanus
@@ -51,6 +44,7 @@ Compiled list of anything web & interactive design related. If you would like a 
 
 #### Sketch
 - [Sketch Plugins](http://www.designyourway.net/blog/resources/sketch-plugins-that-will-improve-your-workflow/) - Compiled list of plugins that will improve your workflow
+- [Sketch Resources](http://www.sketchappsources.com/)
 
 ## Good Reads
 
