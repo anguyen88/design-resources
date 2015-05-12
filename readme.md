@@ -68,6 +68,7 @@ Compiled list of anything web & interactive design related. If you would like a 
 #### CMS
 - [Ghost](https://ghost.org/) - Just a blogging platform
 - [Jekyll](http://jekyllrb.com/)
+-- [Building a Blog with Jekyll & GitHub Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/)
 - [Wordpress](https://wordpress.com/)
 
 #### HTML/CSS
