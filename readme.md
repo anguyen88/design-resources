@@ -121,7 +121,7 @@ Compiled list of anything web & interactive design related. If you would like a 
 #### Need to Convince Someone?
 - [There is No Fold](http://thereisnofold.tumblr.com/)
 
-## Coomunication
+## Comunication
 
 #### Team Based Apps / Sitse
 - [Basecamp](https://basecamp.com/)
