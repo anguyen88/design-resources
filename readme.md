@@ -77,10 +77,14 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [Wordpress](https://wordpress.com/)
 
 #### HTML/CSS
+- [Animate.css](http://daneden.github.io/animate.css/) - Just add-water CSS Animations
 - [Text Input Effects](http://tympanus.net/Development/TextInputEffects/index.html) - Input effects from Tympanus
 - [Shade](http://jxnblk.com/shade/?base=00ccff&hueShift=-130&saturate=0&lighten=0) - Mathematically derived gradient explorer
 
 ## UX
+
+#### Wireframing
+- [Think with Paper](http://fiftythree.com/think)
 
 #### Prototyping
 - [Invision App](www.invisionapp.com)
@@ -117,6 +121,7 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [Good Work Isn't Enough](http://cognition.happycog.com/article/good-work-isnt-enough)
 - [Fall of The Designer](http://www.elischiff.com/blog/2015/4/7/fall-of-the-designer-part-i-fashionable-nonsense) - Part 1 of 5
 - [Inspiration vs Imitation](http://cushionapp.com/journal/inspiration-vs-imitation/)
+- [Dieter Rams: If I Could Do It Again, "I Would Not Want To Be A Designer"](http://www.fastcodesign.com/3043815/dieter-rams-if-i-could-do-it-again-i-would-not-want-to-be-a-designer)
 
 #### Need to Convince Someone?
 - [There is No Fold](http://thereisnofold.tumblr.com/)
