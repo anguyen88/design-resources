@@ -8,6 +8,13 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [Grid](http://adamkaplan.me/grid/) - Grid, made by Adam Kaplan
 - [960 Gridsystem](http://960.gs/)
 
+#### UI KIts
+- [Tethr](http://www.invisionapp.com/tethr) - UI Kit from Invision App
+- [Bootflat](http://bootflat.github.io/free-psd.html)
+- [Polaris UI](http://www.smashingmagazine.com/2013/02/02/freebie-user-interface-kit-icons/)
+###### Device Kits
+- [iOS8 GUI](http://www.teehanlax.com/tools/iphone/)
+
 #### Stock Images
 - [Unsplash](https://unsplash.com/)
 - [Little Visuals](http://littlevisuals.co/)
@@ -42,7 +49,8 @@ Compiled list of anything web & interactive design related. If you would like a 
 
 ## UX
 
-#### Important Content
+#### Useful Content
+- [UXPin: Guide to Wireframing](http://uxpin.e24files.com/uxpin_the_guide_to_wireframing.pdf)
 - [UX Myths](http://uxmyths.com/)
 
 ## Filetypes
@@ -61,6 +69,7 @@ Compiled list of anything web & interactive design related. If you would like a 
 
 #### Design Articles
 - [Fall of The Designer](http://www.elischiff.com/blog/2015/4/7/fall-of-the-designer-part-i-fashionable-nonsense) - Part 1 of 5
+- [Inspiration vs Imitation](http://cushionapp.com/journal/inspiration-vs-imitation/)
 
 ## Communities
 
