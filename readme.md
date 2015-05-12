@@ -72,8 +72,14 @@ Compiled list of anything web & interactive design related. If you would like a 
 
 #### HTML/CSS
 - [Text Input Effects](http://tympanus.net/Development/TextInputEffects/index.html) - Input effects from Tympanus
+- [Shade](http://jxnblk.com/shade/?base=00ccff&hueShift=-130&saturate=0&lighten=0) - Mathematically derived gradient explorer
 
 ## UX
+
+#### Prototyping
+- [Prototyping UI in Edge](https://medium.com/the-thinkmill/prototyping-ui-animation-2fe08e3a7932)
+- [Mobile Navigation with Keynote](http://www.smashingmagazine.com/2015/03/11/prototyping-navigation-on-mobile-with-keynote/)
+- [Animations in Keynote](https://robots.thoughtbot.com/animating-with-keynote)
 
 #### Accesibility
 - [Color Contrast for Better Readability](http://viget.com/inspire/color-contrast)
