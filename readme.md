@@ -7,14 +7,25 @@ Compiled list of anything web & interactive design related. If you would like a 
 #### Web Design Resources
 - [Grid](http://adamkaplan.me/grid/) - Grid, made by Adam Kaplan
 - [960 Gridsystem](http://960.gs/)
+- [iPhone 5 Grid](https://dribbble.com/shots/865767-iPhone-5-Grid)
 
 #### UI KIts
 - [Tethr](http://www.invisionapp.com/tethr) - UI Kit from Invision App
 - [Bootflat](http://bootflat.github.io/free-psd.html)
 - [Polaris UI](http://www.smashingmagazine.com/2013/02/02/freebie-user-interface-kit-icons/)
 
-###### Device Kits
+###### Mobile & Device Kits
 - [iOS8 GUI](http://www.teehanlax.com/tools/iphone/)
+- [Mac Yosemite UI](http://yosemiteui.com/)
+- [Android Lollipop](http://www.uxpin.com/lollipop-ui-kit.html)
+
+#### Device Mockups
+- [iPad](https://dribbble.com/shots/1187389-iPad-Showcase-Template)
+- [iPhone 5](https://dribbble.com/shots/1034402-Minimal-iPhone-5-White-Template-PSD)
+- [iPhone 6](https://dribbble.com/shots/1722076-iPhone-6-4-7-inch-Template-PSD)
+- [iMac & Macbook Pro](https://dribbble.com/shots/829545--PSD-iMac-MacBook-Retina)
+- [Nexus 5](https://dribbble.com/shots/1291675-Nexus-5-Mockup-PSD)
+- [Samsung Galaxy S6 (In Hand)](https://dribbble.com/shots/2040860-Samsung-Galaxy-S6-in-Hand-Mockup)
 
 #### Stock Images
 - [Unsplash](https://unsplash.com/)
