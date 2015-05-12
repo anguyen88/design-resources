@@ -29,6 +29,8 @@ Compiled list of anything web & interactive design related. If you would like a 
 
 #### Useful Apps
 - [ngrok](https://ngrok.com/) - Secure tunneling to localhost
+- [CodeKit](https://incident57.com/codekit/) - Useful compiler if you aren't running grunt/gulp
+- [Tower](http://www.git-tower.com/) - Git GUI
 
 #### CMS
 - [Ghost](https://ghost.org/) - Just a blogging platform
@@ -44,7 +46,10 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [UX Myths](http://uxmyths.com/)
 
 ## Filetypes
+
+#### SVG
 - [Illustrator SVG Workflow](http://danielmall.com/articles/svg-workflow-for-designers/)
+- [Iconic SVG Toolkit](http://blog.useiconic.com/our-toolkit-is-now-available-and-open-source/)
 
 ## Application Resources
 
