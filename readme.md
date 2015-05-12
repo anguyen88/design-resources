@@ -6,6 +6,26 @@ Compiled list of anything web & interactive design related. If you would like a 
 
 #### Web Design Resources
 - [Grid](http://adamkaplan.me/grid/) - Grid, made by Adam Kaplan
+- [960 Gridsystem](http://960.gs/)
+- [iPhone 5 Grid](https://dribbble.com/shots/865767-iPhone-5-Grid)
+
+#### UI KIts
+- [Tethr](http://www.invisionapp.com/tethr) - UI Kit from Invision App
+- [Bootflat](http://bootflat.github.io/free-psd.html)
+- [Polaris UI](http://www.smashingmagazine.com/2013/02/02/freebie-user-interface-kit-icons/)
+
+###### Mobile & Device Kits
+- [iOS8 GUI](http://www.teehanlax.com/tools/iphone/)
+- [Mac Yosemite UI](http://yosemiteui.com/)
+- [Android Lollipop](http://www.uxpin.com/lollipop-ui-kit.html)
+
+#### Device Mockups
+- [iPad](https://dribbble.com/shots/1187389-iPad-Showcase-Template)
+- [iPhone 5](https://dribbble.com/shots/1034402-Minimal-iPhone-5-White-Template-PSD)
+- [iPhone 6](https://dribbble.com/shots/1722076-iPhone-6-4-7-inch-Template-PSD)
+- [iMac & Macbook Pro](https://dribbble.com/shots/829545--PSD-iMac-MacBook-Retina)
+- [Nexus 5](https://dribbble.com/shots/1291675-Nexus-5-Mockup-PSD)
+- [Samsung Galaxy S6 (In Hand)](https://dribbble.com/shots/2040860-Samsung-Galaxy-S6-in-Hand-Mockup)
 
 #### Stock Images
 - [Unsplash](https://unsplash.com/)
@@ -28,6 +48,8 @@ Compiled list of anything web & interactive design related. If you would like a 
 
 #### Useful Apps
 - [ngrok](https://ngrok.com/) - Secure tunneling to localhost
+- [CodeKit](https://incident57.com/codekit/) - Useful compiler if you aren't running grunt/gulp
+- [Tower](http://www.git-tower.com/) - Git GUI
 
 #### CMS
 - [Ghost](https://ghost.org/) - Just a blogging platform
@@ -37,8 +59,17 @@ Compiled list of anything web & interactive design related. If you would like a 
 #### HTML/CSS
 - [Text Input Effects](http://tympanus.net/Development/TextInputEffects/index.html) - Input effects from Tympanus
 
+## UX
+
+#### Useful Content
+- [UXPin: Guide to Wireframing](http://uxpin.e24files.com/uxpin_the_guide_to_wireframing.pdf)
+- [UX Myths](http://uxmyths.com/)
+
 ## Filetypes
+
+#### SVG
 - [Illustrator SVG Workflow](http://danielmall.com/articles/svg-workflow-for-designers/)
+- [Iconic SVG Toolkit](http://blog.useiconic.com/our-toolkit-is-now-available-and-open-source/)
 
 ## Application Resources
 
@@ -50,6 +81,7 @@ Compiled list of anything web & interactive design related. If you would like a 
 
 #### Design Articles
 - [Fall of The Designer](http://www.elischiff.com/blog/2015/4/7/fall-of-the-designer-part-i-fashionable-nonsense) - Part 1 of 5
+- [Inspiration vs Imitation](http://cushionapp.com/journal/inspiration-vs-imitation/)
 
 ## Communities
 
