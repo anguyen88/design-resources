@@ -15,9 +15,17 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [Slack Communities](#slack-communities)
 
 ## Web Design
+
+#### Web Design Resources
 - [Grid](http://adamkaplan.me/grid/) - Grid, made by Adam Kaplan
 
+#### Stock Images
+- [Unsplash](https://unsplash.com/)
+- [Little Visuals](http://littlevisuals.co/)
+- [Gratisopgrahy](http://www.gratisography.com/)
+
 ## Web Dev
+
 #### Language Support
 - [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax) - Markdown Syntax on Daring Fireball
 - [ngrok](https://ngrok.com/) - Secure tunneling to localhost
@@ -39,16 +47,20 @@ Compiled list of anything web & interactive design related. If you would like a 
 ## Filetypes
 - [Illustrator SVG Workflow](http://danielmall.com/articles/svg-workflow-for-designers/)
 
-## Sketch Resources
+## Application Resources
+
+#### Sketch
 - [Sketch Plugins](http://www.designyourway.net/blog/resources/sketch-plugins-that-will-improve-your-workflow/) - Compiled list of plugins that will improve your workflow
 
-## Stock Images
-- [Unsplash](https://unsplash.com/)
-- [Little Visuals](http://littlevisuals.co/)
-- [Gratisopgrahy](http://www.gratisography.com/)
-
 ## Good Reads
+
+#### Design Articles
 - [Fall of The Designer](http://www.elischiff.com/blog/2015/4/7/fall-of-the-designer-part-i-fashionable-nonsense) - Part 1 of 5
 
-## Slack Communities
+## Communities
+
+#### Design Based Communities
+- [Dribbble](www.dribbble.com)
+
+#### Slack Communities
 - [PHLDesign](phldesign.slack.com) - Philadelphia based designers, [request an invite here](https://phlslack.herokuapp.com/).
