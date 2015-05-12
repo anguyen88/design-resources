@@ -4,13 +4,18 @@ Compiled list of anything web & interactive design related. If you would like a 
 
 ## Contents
 - [Web Design](#web-design)
+- [Web Dev](#web-dev)
+- [Frameworks](#frameworks)
+- [CMS](#cms)
+- [HTML/CSS](#htmlcss)
 - [Filetypes](#filetypes)
+- [Sketch Resources](#sketch-resources)
+- [Stock Images](#stock-images)
+- [Good Reads](#good-reads)
+- [Slack Communities](#slack-communities)
 
 ## Web Design
 - [Grid](http://adamkaplan.me/grid/) - Grid, made by Adam Kaplan
-
-## Filetypes
-- [Illustrator SVG Workflow](http://danielmall.com/articles/svg-workflow-for-designers/)
 
 ## Web Dev
 - [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax) - Markdown Syntax on Daring Fireball
@@ -29,6 +34,9 @@ Compiled list of anything web & interactive design related. If you would like a 
 
 ## HTML/CSS
 - [Text Input Effects](http://tympanus.net/Development/TextInputEffects/index.html) - Input effects from Tympanus
+
+## Filetypes
+- [Illustrator SVG Workflow](http://danielmall.com/articles/svg-workflow-for-designers/)
 
 ## Sketch Resources
 - [Sketch Plugins](http://www.designyourway.net/blog/resources/sketch-plugins-that-will-improve-your-workflow/) - Compiled list of plugins that will improve your workflow
