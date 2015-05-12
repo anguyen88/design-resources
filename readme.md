@@ -57,6 +57,11 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [Skeleton](http://getskeleton.com/)
 - [Bootstrap](http://getbootstrap.com/)
 
+#### Issue Tracking / Project Management
+- [Jira](https://www.atlassian.com/software/jira)
+- [Trello](https://trello.com/)
+- [DoneDone](https://www.getdonedone.com/)
+
 #### Useful Apps
 - [Sublime Text](http://www.sublimetext.com/) - Popular text editor with great addons
 - [Atom](https://atom.io/) - Text Editor from GitHub
@@ -68,18 +73,28 @@ Compiled list of anything web & interactive design related. If you would like a 
 #### CMS
 - [Ghost](https://ghost.org/) - Just a blogging platform
 - [Jekyll](http://jekyllrb.com/)
+- [Building a Blog with Jekyll & GitHub Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/)
 - [Wordpress](https://wordpress.com/)
 
 #### HTML/CSS
 - [Text Input Effects](http://tympanus.net/Development/TextInputEffects/index.html) - Input effects from Tympanus
+- [Shade](http://jxnblk.com/shade/?base=00ccff&hueShift=-130&saturate=0&lighten=0) - Mathematically derived gradient explorer
 
 ## UX
+
+#### Prototyping
+- [Invision App](www.invisionapp.com)
+- [Framer](http://framerjs.com/)
+- [Prototyping UI in Edge](https://medium.com/the-thinkmill/prototyping-ui-animation-2fe08e3a7932)
+- [Mobile Navigation with Keynote](http://www.smashingmagazine.com/2015/03/11/prototyping-navigation-on-mobile-with-keynote/)
+- [Animations in Keynote](https://robots.thoughtbot.com/animating-with-keynote)
 
 #### Accesibility
 - [Color Contrast for Better Readability](http://viget.com/inspire/color-contrast)
 - [WebAIM: Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
 
 #### Useful Content
+- [5 Myths About User Onboarding](https://zapier.com/blog/user-onboarding-myths/?utm_campaign=User%20Onboarding%20Myths)
 - [UXPin: Guide to Wireframing](http://uxpin.e24files.com/uxpin_the_guide_to_wireframing.pdf)
 - [UX Myths](http://uxmyths.com/)
 
@@ -103,7 +118,11 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [Fall of The Designer](http://www.elischiff.com/blog/2015/4/7/fall-of-the-designer-part-i-fashionable-nonsense) - Part 1 of 5
 - [Inspiration vs Imitation](http://cushionapp.com/journal/inspiration-vs-imitation/)
 
-## Communities
+## Coomunication
+
+#### Team Based Apps / Sitse
+- [Basecamp](https://basecamp.com/)
+- [Slack](https://slack.com/)
 
 #### Design Based Communities
 - [Dribbble](www.dribbble.com)
