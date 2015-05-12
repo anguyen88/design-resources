@@ -118,6 +118,9 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [Fall of The Designer](http://www.elischiff.com/blog/2015/4/7/fall-of-the-designer-part-i-fashionable-nonsense) - Part 1 of 5
 - [Inspiration vs Imitation](http://cushionapp.com/journal/inspiration-vs-imitation/)
 
+#### Need to Convince Someone?
+- [There is No Fold](http://thereisnofold.tumblr.com/)
+
 ## Coomunication
 
 #### Team Based Apps / Sitse
