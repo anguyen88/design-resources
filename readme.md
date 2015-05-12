@@ -10,6 +10,8 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [iPhone 5 Grid](https://dribbble.com/shots/865767-iPhone-5-Grid)
 
 #### UI KIts
+
+###### Web Kits
 - [Tethr](http://www.invisionapp.com/tethr) - UI Kit from Invision App
 - [Bootflat](http://bootflat.github.io/free-psd.html)
 - [Polaris UI](http://www.smashingmagazine.com/2013/02/02/freebie-user-interface-kit-icons/)
@@ -26,6 +28,7 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [iMac & Macbook Pro](https://dribbble.com/shots/829545--PSD-iMac-MacBook-Retina)
 - [Nexus 5](https://dribbble.com/shots/1291675-Nexus-5-Mockup-PSD)
 - [Samsung Galaxy S6 (In Hand)](https://dribbble.com/shots/2040860-Samsung-Galaxy-S6-in-Hand-Mockup)
+- [Lumia 920](https://dribbble.com/shots/780376-lumia-920-yellow?list=buckets&offset=11)
 
 #### Stock Images
 - [Unsplash](https://unsplash.com/)
@@ -47,9 +50,12 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [Bootstrap](http://getbootstrap.com/)
 
 #### Useful Apps
+- [Sublime Text](http://www.sublimetext.com/) - Popular text editor with great addons
+- [Atom](https://atom.io/) - Text Editor from GitHub
 - [ngrok](https://ngrok.com/) - Secure tunneling to localhost
 - [CodeKit](https://incident57.com/codekit/) - Useful compiler if you aren't running grunt/gulp
 - [Tower](http://www.git-tower.com/) - Git GUI
+- [Transmit](https://panic.com/transmit/) - FTP Client
 
 #### CMS
 - [Ghost](https://ghost.org/) - Just a blogging platform
@@ -80,6 +86,8 @@ Compiled list of anything web & interactive design related. If you would like a 
 ## Good Reads
 
 #### Design Articles
+- [Work Is The Magic Bullet](https://medium.com/@hoyboy/work-is-the-magic-bullet-cb2d10599405)
+- [Good Work Isn't Enough](http://cognition.happycog.com/article/good-work-isnt-enough)
 - [Fall of The Designer](http://www.elischiff.com/blog/2015/4/7/fall-of-the-designer-part-i-fashionable-nonsense) - Part 1 of 5
 - [Inspiration vs Imitation](http://cushionapp.com/journal/inspiration-vs-imitation/)
 
