@@ -2,6 +2,14 @@
 
 Compiled list of anything web & interactive design related. If you would like a link removed please contact me at [hi@antnguyen.com](mailto:hi@antnguyen.com).
 
+## Contents
+1. [Web Design](#web-design)
+2. [Web Dev](#web-dev)
+3. [UX](#ux)
+4. [Application Resources](#application-resources)
+5. [Good Reads](#good-reads)
+6. [Communities](#communities)
+
 ## Web Design
 
 #### Web Design Resources
@@ -66,6 +74,10 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [Text Input Effects](http://tympanus.net/Development/TextInputEffects/index.html) - Input effects from Tympanus
 
 ## UX
+
+#### Accesibility
+- [Color Contrast for Better Readability](http://viget.com/inspire/color-contrast)
+- [WebAIM: Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
 
 #### Useful Content
 - [UXPin: Guide to Wireframing](http://uxpin.e24files.com/uxpin_the_guide_to_wireframing.pdf)
