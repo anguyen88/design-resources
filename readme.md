@@ -43,6 +43,12 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [Little Visuals](http://littlevisuals.co/)
 - [Gratisopgrahy](http://www.gratisography.com/)
 
+## Mobile App Design
+
+#### iOS Design
+- [iPhone 6 Screens Demystified](http://www.paintcodeapp.com/news/iphone-6-screens-demystified)
+- [Ultimate Guide to iPhone Resolutions](http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+
 ## Web Dev
 
 #### Language Support
