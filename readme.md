@@ -16,8 +16,10 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [Grid](http://adamkaplan.me/grid/) - Grid, made by Adam Kaplan
 - [960 Gridsystem](http://960.gs/)
 - [iPhone 5 Grid](https://dribbble.com/shots/865767-iPhone-5-Grid)
+- [Icon Management](http://geticonjar.com/)
+- [Subtle Patterns](http://subtlepatterns.com/)
 
-#### UI KIts
+#### UI Kits
 
 ###### Web Kits
 - [Tethr](http://www.invisionapp.com/tethr) - UI Kit from Invision App
@@ -26,6 +28,7 @@ Compiled list of anything web & interactive design related. If you would like a 
 
 ###### Mobile & Device Kits
 - [iOS8 GUI](http://www.teehanlax.com/tools/iphone/)
+- [Apple Watch GUI](https://designcode.io/watch)
 - [Mac Yosemite UI](http://yosemiteui.com/)
 - [Android Lollipop](http://www.uxpin.com/lollipop-ui-kit.html)
 
@@ -48,6 +51,7 @@ Compiled list of anything web & interactive design related. If you would like a 
 #### iOS Design
 - [iPhone 6 Screens Demystified](http://www.paintcodeapp.com/news/iphone-6-screens-demystified)
 - [Ultimate Guide to iPhone Resolutions](http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+- [Understanding Auto Layout & Why It's Useful](http://www.raywenderlich.com/83129/beginning-auto-layout-tutorial-swift-part-1)
 
 ## Web Dev
 
@@ -119,6 +123,9 @@ Compiled list of anything web & interactive design related. If you would like a 
 #### Sketch
 - [Sketch Plugins](http://www.designyourway.net/blog/resources/sketch-plugins-that-will-improve-your-workflow/) - Compiled list of plugins that will improve your workflow
 - [Sketch Resources](http://www.sketchappsources.com/)
+
+#### Photoshop
+- [Photoshop Secrets](http://photoshopsecrets.tumblr.com/)
 
 ## Good Reads
 
