@@ -1,6 +1,6 @@
 # Web & Interactive Design Resources
 
-Compiled list of anything web & interactive design related. If you would like a link removed please contact me at [hi@antnguyen.com](mailto:hi@antnguyen.com).
+Compiled list of anything web & interactive design related. If you would like a link removed please contact [hi@antnguyen.com](mailto:hi@antnguyen.com).
 
 ## Contents
 1. [Web Design](#web-design)
