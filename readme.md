@@ -18,6 +18,7 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [iPhone 5 Grid](https://dribbble.com/shots/865767-iPhone-5-Grid)
 - [Icon Management](http://geticonjar.com/)
 - [Subtle Patterns](http://subtlepatterns.com/)
+- [Modular Scale - Typography Scales](http://www.modularscale.com/)
 
 #### UI Kits
 
@@ -45,6 +46,7 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [Unsplash](https://unsplash.com/)
 - [Little Visuals](http://littlevisuals.co/)
 - [Gratisopgrahy](http://www.gratisography.com/)
+- [Free Stock Photo Aggregator](http://thestocks.im/)
 
 ## Mobile App Design
 
