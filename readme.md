@@ -108,6 +108,7 @@ Compiled list of anything web & interactive design related. If you would like a 
 #### Accesibility
 - [Color Contrast for Better Readability](http://viget.com/inspire/color-contrast)
 - [WebAIM: Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
+- [Calculation Hub: Contrast Ratio Calculator](https://calculation-hub.com/colors/contrast-ratio) - Free foreground/background contrast-ratio calculations and text previews, not a complete accessibility audit.
 
 #### Useful Content
 - [5 Myths About User Onboarding](https://zapier.com/blog/user-onboarding-myths/?utm_campaign=User%20Onboarding%20Myths)
