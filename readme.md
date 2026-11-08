@@ -19,6 +19,7 @@ Compiled list of anything web & interactive design related. If you would like a 
 - [Icon Management](http://geticonjar.com/)
 - [Subtle Patterns](http://subtlepatterns.com/)
 - [Modular Scale - Typography Scales](http://www.modularscale.com/)
+- [Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant) - Pair script headings with body fonts for lettering layouts.
 
 #### UI Kits
 
